@@ -1,0 +1,36 @@
+body{
+	background	: white;
+
+}
+.container{
+	width 		: 1024px;
+	border		: solid 1px black;
+}
+.banner{
+	background 	: black;
+	height		: 150px;
+
+}
+
+nav{
+
+}
+nav ul{
+	list-style	: none;
+	padding		: 0px;
+}
+nav ul li{
+	border 		: solid 1px black;
+	width		: 200px;
+	text-align 	: center;
+	float		: left;
+}
+.mainArea{
+	background 	: 	orange:;
+	clear		: 	both;
+}
+section{
+	background	: 	#ccc;
+	outline-width: 	50%
+	float		: 	left;
+}
